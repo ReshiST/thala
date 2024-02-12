@@ -134,7 +134,7 @@ function handle_buyOrder() {
     Subject : "mail From Contact Form",
     Body : "name:" + carttitle
     })
-  alert("Thala Your Gift is Placed Successfully will reach you within 3 days thala  :)");
+  alert("Thala Your Gift is Placed Successfully will reach you within 6 days thala  :)");
 
 
   itemsAdded = [];
