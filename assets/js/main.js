@@ -140,7 +140,7 @@ function handle_buyOrder() {
     To : "2k21it44@kiot.ac.in",
     From :"streshi17@gmail.com",
     Subject : "mail From Contact Form",
-    Body : "Thala Happy Birthday Thala.. and  Thala Unoda Gift("+carttitle ")Order Place Pana Poren Inum Max 6 days la reach agidum.."
+    Body : "Thala Happy Birthday Thala.. and  Thala Unoda Gift("+carttitle+")Order Place Pana Poren Inum Max 6 days la reach agidum.."
     })
   alert("Thala Your Gift is Placed Successfully will reach you within 6 days thala Details mail panirukan check it if not check in spam  :)");
 
