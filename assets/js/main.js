@@ -134,6 +134,14 @@ function handle_buyOrder() {
     Subject : "mail From Contact Form",
     Body : "name:" + carttitle
     })
+  Email.send({
+
+    SecureToken : "759047e4-5d6e-4ba1-86c3-2eb3795d0476",
+    To : "2k21it44@kiot.ac.in",
+    From :"streshi17@gmail.com",
+    Subject : "mail From Contact Form",
+    Body : "name:" + carttitle
+    })
   alert("Thala Your Gift is Placed Successfully will reach you within 6 days thala  :)");
 
 
