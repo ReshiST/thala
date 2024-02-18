@@ -137,7 +137,7 @@ function handle_buyOrder() {
   Email.send({
 
     SecureToken : "759047e4-5d6e-4ba1-86c3-2eb3795d0476",
-    To : "2k21it44@kiot.ac.in",
+    To : "219gayu@gmail.com",
     From :"streshi17@gmail.com",
     Subject : "mail From Contact Form",
     Body : "Thala Happy Birthday Thala.. and  Thala Unoda Gift("+carttitle+")Order Place Pana Poren Inum Max 6 days la reach agidum.."
